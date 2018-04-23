@@ -1,0 +1,1 @@
+//draw_sprite_ext(spr_point,0,x,y,1,1,follow.image_angle,c_red,1)
